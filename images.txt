@@ -1,1 +1,1 @@
-python:3.10-slim-bullseye
+secretflow/secretflow-anolis8:1.6.1b0
