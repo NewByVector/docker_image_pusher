@@ -1,1 +1,1 @@
-nginx:1.26.0
+secretflow/devcontainer-web:amd64-v2
