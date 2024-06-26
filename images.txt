@@ -1,1 +1,1 @@
-secretflow/secretflow-anolis8:1.6.1b0
+rust:bookworm
