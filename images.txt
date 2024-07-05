@@ -1,5 +1,1 @@
---platform=linux/arm64 rust:bookworm
---platform=linux/arm64 alpine:3.14
---platform=linux/arm64 secretflow/secretflow-anolis8:1.6.1b0
---platform=linux/arm64 golang:1.22
---platform=linux/arm64 python:3.10-slim-bullseye
+node:18-alpine
