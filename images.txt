@@ -1,1 +1,1 @@
---platform=linux/amd64 nginx:latest
+--platform=linux/arm64 nginx:latest
