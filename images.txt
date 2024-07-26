@@ -1,1 +1,1 @@
---platform=linux/arm64 nginx:latest
+--platform=linux/arm64 secretflow/scql:latest
