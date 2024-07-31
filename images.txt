@@ -1,1 +1,1 @@
---platform=linux/arm64 mysql:latest
+secretflow/secretnote:1.6.1
