@@ -1,2 +1,1 @@
---platform=linux/arm64 prom/prometheus
---platform=linux/arm64 grafana/grafana-enterprise
+--platform=linux/arm64 postgres:latest
