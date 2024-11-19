@@ -1,1 +1,1 @@
---platform=linux/arm64 pgvector/pgvector:pg17
+--platform=linux/arm64 node:18-alpine
