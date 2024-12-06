@@ -1,1 +1,1 @@
---platform=linux/arm64 node:18-alpine
+secretflow/secretnote:1.10.0b0
