@@ -1,1 +1,1 @@
-secretflow/secretnote:1.10.0b0
+python:3.11-slim-bullseye
