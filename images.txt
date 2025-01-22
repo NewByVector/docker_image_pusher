@@ -1,1 +1,2 @@
---platform=linux/arm64 python:3.11-slim-bullseye
+--platform=linux/arm64 mysql:8
+--platform=linux/arm64 redis
