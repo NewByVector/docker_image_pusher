@@ -1,1 +1,1 @@
---platform=linux/arm64 nvcr.io/nvidia/pytorch:21.06-py3
+--platform=linux/arm64 pytorch:21.06-py3
